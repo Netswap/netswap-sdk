@@ -21,12 +21,12 @@ export enum Rounding {
 }
 
 export const FACTORY_ADDRESS = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x70f51d68D16e8f9e418441280342BD43AC9Dff9f',
   [ChainId.TESTNET]: '0xA327674305d490199B76b186Ed360fCad3296949'
 }
 
 export const INIT_CODE_HASH = {
-  [ChainId.MAINNET]: '',
+  [ChainId.MAINNET]: '0x966d65068a6a30f10fd1fa814258637a34e059081d79daa94f3e2b6cec48e810',
   [ChainId.TESTNET]: '0x68cc803ebc27f23a62dd9f9251e76a9d6f2c659f76c92ffbd5e62d5b877384d6'
 }
 
