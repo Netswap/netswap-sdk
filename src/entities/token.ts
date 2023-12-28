@@ -72,4 +72,11 @@ export const WETH = {
     'METIS',
     'Metis'
   ),
+  [ChainId.TESTNET_SEPOLIA]: new Token(
+    ChainId.TESTNET_SEPOLIA,
+    '0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000',
+    18,
+    'METIS',
+    'Metis'
+  ),
 }
