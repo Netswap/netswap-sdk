@@ -1,1 +1,1 @@
-# @netswap/sdk 1.1.3
+# @netswap/sdk 1.1.8
