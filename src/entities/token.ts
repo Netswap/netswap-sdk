@@ -65,8 +65,8 @@ export const WETH = {
     'Ether'
   ),
   
-  [ChainId.TESTNET]: new Token(
-    ChainId.TESTNET,
+  [ChainId.TESTNET_HYPER]: new Token(
+    ChainId.TESTNET_HYPER,
     '0xDeadDeAddeAddEAddeadDEaDDEAdDeaDDeAD0000',
     18,
     'METIS',
